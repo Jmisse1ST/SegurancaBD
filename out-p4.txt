@@ -1,0 +1,4 @@
+ 	Editar Editar 	Copiar Copiar 	Apagar Apagar 	Ahmed 	Al-Rashid
+	Editar Editar 	Copiar Copiar 	Apagar Apagar 	Fatima 	Hassan
+	Editar Editar 	Copiar Copiar 	Apagar Apagar 	Omar 	Kenyatta
+	Editar Editar 	Copiar Copiar 	Apagar Apagar 	David 	Nkomo

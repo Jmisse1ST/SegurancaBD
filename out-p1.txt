@@ -1,0 +1,5 @@
+Nome 	Sobrenome 	Documentos 	
+Ahmed 	Al-Rashid 	BI1234567890,PP12345678
+Fatima 	Hassan   	NULL
+Omar 	Kenyatta 	NULL
+David 	Nkomo 	    NULL 

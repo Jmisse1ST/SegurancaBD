@@ -1,0 +1,6 @@
+
+Nome 	Sobrenome 	Passaporte 	
+Carlos 	Mabunda 	PP87654321
+José 	Silva 	    PP11223344
+Ana 	Nguyen 	    PP99887766
+Paulo 	Chissano 	PP2233445566

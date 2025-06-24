@@ -1,0 +1,2 @@
+Cidade 	 Latitude 	    Longitude 	    Total_Pessoas 	Total_Crimes_Graves 	
+Maputo 	-25.96553000 	32.58322000 	3           	3

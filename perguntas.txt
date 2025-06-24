@@ -1,0 +1,17 @@
+1. Quais indivíduos com registo criminais de terrorismo foram
+avistados na Cidade “X” nos últimos 3 meses, e quais documentos de
+identidade eles possuem?
+
+2. Quais indivíduos têm registo de voz (Biometria) e possuem mais de
+um documento de identidade?
+
+3. Quais pessoas que possuem passaporte têm registo criminais por
+tráfico de drogas?
+
+4. Quantos indivíduos com antecedentes por "terrorismo" possuem
+registros biométricos incompletos (ex: só digitais, sem reconhecimento
+facial)?
+
+5. Quais são os locais (coordenadas ou bairros) com maior
+concentração de avistamentos de pessoas com crimes graves nos
+últimos 6 meses?
